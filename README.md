@@ -69,9 +69,8 @@ This project uses the **greedy coloring algorithm** with the `largest_first` str
 
 ## 📊 Example Output
 
-![Graph Coloring Example](https://via.placeholder.com/600x400.png?text=Graph+Coloring+Visualization)
+![Graph Coloring Example](https://github.com/user-attachments/assets/35f3045d-4937-4708-b9cb-619a276bb88f)
 
-*(Replace the above placeholder with your actual visualization screenshot.)*
 
 ---
 
